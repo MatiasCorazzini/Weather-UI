@@ -1,0 +1,13 @@
+body{
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/estacionmeteorologica-fe823.appspot.com/o/clouds-cloudy-dark-clouds-164024.jpg?alt=media&token=cbcb172f-1361-44b6-82e1-09ab08be66b5");
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.logo{
+    text-align: center;
+}
+
+h3{
+    font-family: 'Pacifico', cursive;
+}
